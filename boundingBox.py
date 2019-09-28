@@ -3,9 +3,7 @@ import numpy as np
 import cv2
 import glob
 import os
-import scipy.misc
 
-from scipy.misc import imsave
 from PIL import Image, ImageDraw
 
 equal_path = "./data/annotated_test_Equal/"
